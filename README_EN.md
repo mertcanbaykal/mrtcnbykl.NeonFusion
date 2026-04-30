@@ -1,4 +1,4 @@
-# Neon-Fusion
+# Neon Fusion
 
 <p align="center">
     <a href="README.md">Türkçe</a>
