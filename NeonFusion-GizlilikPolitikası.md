@@ -6,7 +6,7 @@
     <a href="NeonFusion-GizlilikPolitikası.md">Türkçe</a>
 </p>
 
-### Bilgi Toplama ve Kullanımı  
+### Bilgi Toplama ve Kullanma  
 Yerelleştirme dışında herhangi bir kişisel bilgi toplanmıyor ya da kullanılmıyor. Yerelleştirme için bile, veriler saklanmıyor ya da bize ulaşmıyor. Tüm süreç, kullanıcı deneyimini iyileştirmek için yerel aygıtta gerçekleşiyor. 
  - **Yerelleştirme:** Oyun; aygıt dilini denetleyerek var olan seçenekler arasından oyun dilini ayarlar.
     - Unity Technologies'in bu süreçle ilgili resmi dokümanları:
