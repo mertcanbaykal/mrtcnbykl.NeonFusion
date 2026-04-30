@@ -1,2 +1,2 @@
-# mrtcnbykl.NeonFusion
-Neon Fusion çok yakında App Store ve Google Play Store'da yayımlanacak.
+# Neon-Fusion
+*[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile diğer çalışmalarıma ulaşabilirsiniz.*
