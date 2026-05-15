@@ -3,11 +3,11 @@
 <p align="center">
     <a href="NeonFusion-PrivacyPolicy.md">English</a>
     ·
-    <a href="NeonFusion-GizlilikPolitikası.md">Türkçe</a>
+    <a href="NeonFusion-Gizlilikİlkesi.md">Türkçe</a>
 </p>
 
 ### Information Collection and Use  
-Other than localization, we do not collect or use any personal information. Even for localization, we do not store or receive the data. Entire process happens on the local device to improve the user experience.
+Other than localization, we do not collect or use any personal information. Even for localization, we do not store or share the data. Entire process happens on the local device to improve the user experience.
  - **Localization:** The game checks the device language to set the game language within the available options.
     - Official Unity Technologies documentations about this process:
        - [Unity Scripting API - SystemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/SystemLanguage.html)
