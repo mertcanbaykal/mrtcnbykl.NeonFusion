@@ -9,7 +9,7 @@
 ### Bilgi Toplama ve Kullanma  
 Yerelleştirme dışında herhangi bir kişisel bilgi toplanmaz ya da kullanılmaz. Yerelleştirme için bile, veriler saklanmaz ya da paylaşılmaz. Tüm süreç, kullanıcı deneyimini iyileştirmek için yerel aygıtta gerçekleşir. 
  - **Yerelleştirme:** Oyun; aygıt dilini denetleyerek var olan seçenekler arasından oyun dilini ayarlar.
-    - Unity Technologies'in bu süreçle ilgili resmi dokümanları:
+    - Unity Technologies'in bu süreçle ilgili onaylı belgeleri:
        - [Unity Scripting API - SystemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/SystemLanguage.html)
        - [Unity Scripting API - Application.systemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Application-systemLanguage.html)
 
