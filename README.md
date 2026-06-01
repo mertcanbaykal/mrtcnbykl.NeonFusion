@@ -6,4 +6,4 @@
     <a href="README_EN.md">English</a>
 </p>
 
-*[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile diğer çalışmalarıma ulaşabilirsiniz.*
+*[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
