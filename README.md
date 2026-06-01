@@ -6,5 +6,7 @@
     <a href="README_EN.md">English</a>
 </p>
 
+*BU SAYFA, OYUNUN GELİŞTİRME VE SINAMA SÜREÇLERİ TAMAMLANDIĞI ZAMAN DÜZENLENECEKTİR*
+
 ## *mrtcnbykl*
 *[mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl) bağlantısı ile öteki çalışmalarıma ulaşabilirsiniz.*
