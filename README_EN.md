@@ -19,7 +19,7 @@
 
 *Neon Fusion*, with its art design and gameplay inspired by retro handheld game consoles, was developed using the C# programming language via the Unity Game Engine.
 
-- The game's visual and audio art designs are based on my own creations.
+- The game's visual and audio art designs are my own creations.
 - The game was developed through a cycle of thinking, designing, researching, and implementing.
 - The use of generative artificial intelligence was avoided in the design and programming processes.
 
