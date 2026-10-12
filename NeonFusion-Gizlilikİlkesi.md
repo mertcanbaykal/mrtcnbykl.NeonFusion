@@ -12,7 +12,7 @@ Yerelleştirme dışında herhangi bir kişisel bilgi toplanmaz ya da kullanılm
     - Unity Technologies'in bu süreçle ilgili onaylı belgeleri:
        - [Unity Scripting API - SystemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/SystemLanguage.html)
        - [Unity Scripting API - Application.systemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Application-systemLanguage.html)
-- **Tanıtı hizmeti sağlayıcıları:** *Google AdMob* ve *Unity Ads*, kullanıcılara kişiselleştirilmiş tanıtılar göstermek için veri toplayabilir. Hizmet sağlayıcıların verileri toplama ve kullanma ile ilgili belgeleri:
+- **Tanıtı sağlayıcıları:** *Google AdMob* ve *Unity Ads*, kullanıcılara kişiselleştirilmiş tanıtılar göstermek için veri toplayabilir. Tanıtı sağlayıcıların verileri toplama ve kullanma ile ilgili belgeleri:
     - Google Admob
        - [Android](https://developers.google.com/admob/android/privacy/play-data-disclosure) 
        - [iOS](https://developers.google.com/admob/ios/privacy/data-disclosure)
@@ -20,9 +20,9 @@ Yerelleştirme dışında herhangi bir kişisel bilgi toplanmaz ya da kullanılm
        - [Android](https://docs.unity.com/en-us/ads-android/4.20.0/privacy/developer-consent/disclosures/google-data-safety) 
        - [iOS](https://docs.unity.com/en-us/ads-android/4.20.0/privacy/developer-consent/disclosures/apple-privacy-survey)
 
-### Hizmet Sağlayıcıları  
+### Tanıtı Sağlayıcıları
 - Bu oyunda tanıtılar bulunmaktadır. Tanıtılar, *Google AdMob* ve *Unity Ads* hizmetleri tarafından *Unity LevelPlay: Ad Mediation Platform* kullanılarak sağlanmaktadır.
-- Kullanıcılar oyun içerisinden, *Google Play* ya da *App Store* hizmetleri aracılığıyla tanıtıları kaldırma özelliği bedelini ödeyerek oyundaki tanıtıları kaldırma seçeneğine sahiptir.
+- Kullanıcıların oyun içerisinden, *Google Play* ya da *App Store* hizmetleri aracılığıyla tanıtıları kaldırma özelliği bedelini ödeyerek oyundaki tanıtıları kaldırma seçeneği vardır.
 
 ### Gizlilik İlkesindeki Değişiklikler
 Gizlilik ilkemizi zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik olup olmadığını görmek için bu sayfayı düzenli aralıklarla incelemeniz önerilir. Değişiklikler, bu sayfada yayımlandıktan hemen sonra yürürlüğe girer.
