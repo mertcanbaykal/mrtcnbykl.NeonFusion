@@ -12,7 +12,7 @@ Yerelleştirme dışında herhangi bir kişisel bilgi toplanmaz ya da kullanılm
     - Unity Technologies'in bu süreçle ilgili onaylı belgeleri:
        - [Unity Scripting API - SystemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/SystemLanguage.html)
        - [Unity Scripting API - Application.systemLanguage](https://docs.unity3d.com/6000.3/Documentation/ScriptReference/Application-systemLanguage.html)
-- **Tanıtı sağlayıcıları:** *Google AdMob* ve *Unity Ads*, kullanıcılara kişiselleştirilmiş tanıtılar göstermek için veri toplayabilir. Tanıtı sağlayıcıların verileri toplama ve kullanma ile ilgili belgeleri:
+- **Tanıtı sağlayıcıları:** *Google AdMob* ve *Unity Ads*, kullanıcılara kişiselleştirilmiş tanıtılar göstermek için veri toplayabilir. Tanıtı sağlayıcılarının verileri toplama ve kullanma ile ilgili belgeleri:
     - Google Admob
        - [Android](https://developers.google.com/admob/android/privacy/play-data-disclosure) 
        - [iOS](https://developers.google.com/admob/ios/privacy/data-disclosure)
