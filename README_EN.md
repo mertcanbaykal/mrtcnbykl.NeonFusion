@@ -26,4 +26,4 @@
 <br>
 
 ## *mrtcnbykl*
-*You can access my other works via the link [mrtcnbykl](https://github.com/mertcanbaykal/mrtcnbykl)*
+*You can access my other works via the link [mrtcnbykl](https://mertcanbaykal.github.io)*
