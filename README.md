@@ -11,7 +11,7 @@
 </p>
 
 
-### Neon Fusion - App Store: [https://apps.apple.com/us/app/neon-fusion-merge-game/id6794359110](https://apps.apple.com/us/app/neon-fusion-merge-game/id6794359110)
+### Neon Fusion - App Store: [https://apps.apple.com/tr/app/neon-fusion-birleştirme-oyunu/id6794359110?l=tr](https://apps.apple.com/tr/app/neon-fusion-birleştirme-oyunu/id6794359110?l=tr)
 ### Neon Fusion - Google Play: [https://play.google.com/store/apps/details?id=com.mrtcnbykl.neonfusion](https://play.google.com/store/apps/details?id=com.mrtcnbykl.neonfusion)
 *Bağımsız **mrtcnbykl** geliştirici kimliğini kullanarak geliştirmiş olduğum **Neon Fusion** adlı oyun, 21 Eylül 2026 tarihinde App Store ve Google Play'de yayımlanmıştır.*
 
